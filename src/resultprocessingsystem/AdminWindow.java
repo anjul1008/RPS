@@ -17,10 +17,6 @@ import javax.swing.SpinnerListModel;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-/**
- *
- * @author Axle Blaze
- */
 public class AdminWindow extends javax.swing.JFrame {
     Connection conn=DBConnection.getconn();
     ResultSet rs=null;
