@@ -13,10 +13,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Anujsaini
- */
 public class StudentResult extends javax.swing.JFrame {
 
     Connection conn=DBConnection.getconn();
