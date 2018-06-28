@@ -11,10 +11,6 @@ import java.awt.Toolkit;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- *
- * @author Axle Blaze
- */
 public class DBConnection {
     
     public static Connection getconn()
