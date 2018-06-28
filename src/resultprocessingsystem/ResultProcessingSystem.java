@@ -6,10 +6,7 @@
 
 package resultprocessingsystem;
 
-/**
- *
- * @author Axle Blaze
- */
+
 public class ResultProcessingSystem {
 
     /**
