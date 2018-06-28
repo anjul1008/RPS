@@ -10,10 +10,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.sql.Connection;
 
-/**
- *
- * @author Axle Blaze
- */
+
 public class Result extends javax.swing.JFrame {
 
     /**
