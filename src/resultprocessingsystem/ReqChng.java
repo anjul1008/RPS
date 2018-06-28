@@ -9,10 +9,6 @@ package resultprocessingsystem;
 import java.awt.Frame;
 import sun.awt.WindowClosingListener;
 
-/**
- *
- * @author Axle Blaze
- */
 public class ReqChng extends javax.swing.JFrame {
 
     /**
