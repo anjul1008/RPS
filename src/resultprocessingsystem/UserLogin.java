@@ -9,10 +9,7 @@ import java.sql.Connection;
 import java.sql.Statement;
 import java.sql.ResultSet;
 import javax.swing.JLabel;
-/**
- *
- * @author Axle Blaze
- */
+
 public class UserLogin extends javax.swing.JFrame {
 
     /**
