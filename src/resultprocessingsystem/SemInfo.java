@@ -10,10 +10,7 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-/**
- *
- * @author Axle Blaze
- */
+
 public class SemInfo extends javax.swing.JFrame {
 
     /**
